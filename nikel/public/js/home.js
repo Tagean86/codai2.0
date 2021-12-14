@@ -11,7 +11,7 @@ document.getElementById("transactions-buttom").addEventListener("click", functio
     window.location.href = "transaction.html"
 })
 
-//ADICIONAR LANÇAMENTO
+//ADICIONAR LANÇAMENTi
 document.getElementById("transaction-form").addEventListener("submit", function(e){
     e.preventDefault();
 
